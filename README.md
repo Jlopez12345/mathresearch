@@ -1,6 +1,6 @@
 # Mathematics research
 
-This is an introduction to my math research project...
+Throught the mathematics department at St.Edwards University, I have had the opportunity to do research with the guidance of my professor Dr. Savala. Together we have been able to combine a series of different files that inlcude mutation information for patients with different cancer typpes. Using the following files as listed below.
 
 ## Tools used
 - R programming
