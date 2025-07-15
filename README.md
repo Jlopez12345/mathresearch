@@ -11,6 +11,7 @@ I started this research project
 - Statistical tests, including:
 	- Chi- Square
 	- Cochran-Mantel-Haenszel (CMH) test
+        - Residual Plotting
 
 ## Biology topics covered
 - Genes
@@ -21,4 +22,4 @@ I started this research project
 
 # Presentations given
 - [Fall 2024](www.google.com)
-- [Spring 2025](www.google.com)
+- [Spring 2025]([[www.google.com](https://www.overleaf.com/read/twjfwpbmjpyq#565885)](https://drive.google.com/file/d/1gPg6X7VI-EQLsFojLrPkUwGQ9xCyCdhG/view?usp=sharing)](https://drive.google.com/file/d/1rwVZ3Y6wakxAsju1oF9cZM0EsRTP289i/view?usp=sharing))
